@@ -40,6 +40,3 @@
 - JC003-1. Spring Boot 이중화 구성 (.feat 어렵지 않아요.)
 - JC003-2 Spring Boot 이중화 구성2 (.feat 좀 더 스마트하게 변경..)
 - JC004. Gradle Multi Project 만들기
-
-
-
