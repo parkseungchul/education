@@ -1,5 +1,7 @@
 # IT 정답은 없다.
 
+### Youtube 에 만든 강의 목록 정리
+
 ## [J100. Spring Boot 기초](https://www.youtube.com/playlist?list=PLogzC_RPf25E-mfrKvl6jWHU8r1jxCZgq)
 - J101. Spring Boot 개발 환경 만들기
 - J102. Spring Boot 빌드하고 WEB 띄우기
@@ -32,7 +34,7 @@
 - D109. Build Dockerfile for Spring Boot
 - D110. Gitlab을 Docker에 설치하기
 
-## [JC000. Docker 기초](https://www.youtube.com/playlist?list=PLogzC_RPf25E9qprqOIDTzwZ24PuEf-1v)
+## [JC000. 스프링 클라우드](https://www.youtube.com/playlist?list=PLogzC_RPf25E9qprqOIDTzwZ24PuEf-1v)
 - JC001. Spring Boot 프레임워크 만들기 (.feat 이거 한방이면 끝)
 - JC002. docker compose Spring Boot 환경 구성 (.feat 한방에 운영 환경 구성 해볼텐가?)
 - JC003-1. Spring Boot 이중화 구성 (.feat 어렵지 않아요.)
