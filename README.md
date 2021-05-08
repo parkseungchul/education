@@ -16,10 +16,11 @@
 - J107. Spring Boot SSL 인증서 무료로 적용하기
 - J108. Spring JPA Multiple Databases 
 
-## [J200. Spring Boot Tip](https://www.youtube.com/playlist?list=PLogzC_RPf25FXvkWEK4IafUylvWCkPI8i)
+## [J200. Spring Boot 중급](https://www.youtube.com/playlist?list=PLogzC_RPf25FXvkWEK4IafUylvWCkPI8i)
 - J201. How to Use YUM Files to Smart
 - J202. How to use logback in spring boot
 - J203. Spring Boot JUnit
+- J204. Spring Boot + Security + JWT + keycloak (.feat 콜록 콜록)
 
 ## [D100. Docker 기초](https://www.youtube.com/playlist?list=PLogzC_RPf25Fx3eNZzxLVw3dOL7r4XIUk)
 - D101. VMWare CentOS7 환경 구성
@@ -47,3 +48,5 @@
 - JC005-3 마이크로 서비스 Part.3 배포 환경
 - JC006-1 Micro Service with Eureka part.1(.feat 마이크로 서비스와 유레카 맛보기???)
 - JC006-2 Micro Service with Eureka part.2(.feat 마이크로 서비스와 유레카 실전)
+- JC007-1 Micro Service with Gateway part.1 (.feat 마이크로 서비스 게이트웨이)
+- JC007-2 Micro Service with Gateway part.2
