@@ -1,6 +1,6 @@
 # IT 정답은 없다.
 
-### Youtube 에 만든 강의 목록 정리
+### Youtube 목록 정리
 
 ## [J100. Spring Boot 기초](https://www.youtube.com/playlist?list=PLogzC_RPf25E-mfrKvl6jWHU8r1jxCZgq)
 - J101. Spring Boot 개발 환경 만들기
@@ -21,6 +21,12 @@
 - J202. How to use logback in spring boot
 - J203. Spring Boot JUnit
 - J204. Spring Boot + Security + JWT + keycloak (.feat 콜록 콜록)
+- J205. OAuth2 + Gateway + JWT + keycloak + Security
+- J205-2. OAuth2 + Gateway + JWT + keycloak + Security (.feat webflux )
+- J207. Spring WebFlux vs Spring MVC and K6 load testing(.feat Thymeleaf 적용 했다구...)
+- J208. RabbitMQ + Spring Boot
+- J209. Spring webflux + Thymeleaf
+- J210. Spring webflux + MongoDB (.feat 이거 한방이면 웹 플럭스 컷!!!)
 
 ## [D100. Docker 기초](https://www.youtube.com/playlist?list=PLogzC_RPf25Fx3eNZzxLVw3dOL7r4XIUk)
 - D101. VMWare CentOS7 환경 구성
@@ -36,6 +42,9 @@
 - D109. Build Dockerfile for Spring Boot
 - D110. Gitlab을 Docker에 설치하기
 - D111. Docker Container 에 어울리는 JDK는?
+- D112. Docker를 이용하여 구글 시트와 같은 거 사용 (.feat 미안 구글 시트는 아냐..)
+- D113. Nginx vs Httpd 성능 테스트 (feat .사실 Docker 연습인 듯...)
+- D114. Springboot. Scouter, K6 컨테이너화하여 가지고 놀기 (.feat Dockerfile 알쥐?)
 
 ## [JC000. 스프링 클라우드](https://www.youtube.com/playlist?list=PLogzC_RPf25E9qprqOIDTzwZ24PuEf-1v)
 - JC001. Spring Boot 프레임워크 만들기 (.feat 이거 한방이면 끝)
@@ -50,3 +59,4 @@
 - JC006-2 Micro Service with Eureka part.2(.feat 마이크로 서비스와 유레카 실전)
 - JC007-1 Micro Service with Gateway part.1 (.feat 마이크로 서비스 게이트웨이)
 - JC007-2 Micro Service with Gateway part.2
+- JC008. Cloud Architecture (ft. 십분만...)
