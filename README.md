@@ -35,6 +35,7 @@
 - J216. Dynamically changing Spring Boot logs (not using actuator)
 - J217. Spring Log4j2 DB Appender
 - J218. Adding UUID to Spring Boot logs using log4j2 (feat. code improvement and reflection)
+- J219. Spring Boot OAuth2 Google, Naver Login
 
 ## [SB000 Spring Batch](https://www.youtube.com/playlist?list=PLogzC_RPf25HRSG9aO7qKrwbT-EecUMMR)
 #### This course covers various topics related to Spring Batch, including environment setup and sample code creation, data movement between files and databases, Docker-based environment configuration, and more.

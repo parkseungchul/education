@@ -35,6 +35,7 @@
 - J216. 스프링 로그 동적 변경 actuator 아님!
 - J217.  Spring Log4j2 DB Appender
 - J218.  Spring log4j2 UUID 넣기 (feat.코드 개선과 반성)
+- J219. Spring Boot OAuth2 Google, Naver Login
 
 ## [SB000 Spring Batch](https://www.youtube.com/playlist?list=PLogzC_RPf25HRSG9aO7qKrwbT-EecUMMR)
 #### 이 강좌는 Spring Batch를 사용하여 데이터 처리와 파일 및 DB 간 데이터 이동 등 다양한 내용을 다루며, Docker를 이용한 실행 환경 구성도 다룹니다.
