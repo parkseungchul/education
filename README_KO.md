@@ -36,6 +36,16 @@
 - J217.  Spring Log4j2 DB Appender
 - J218.  Spring log4j2 UUID 넣기 (feat.코드 개선과 반성)
 
+## [SB000 Spring Batch](https://www.youtube.com/playlist?list=PLogzC_RPf25HRSG9aO7qKrwbT-EecUMMR)
+#### 이 강좌는 Spring Batch를 사용하여 데이터 처리와 파일 및 DB 간 데이터 이동 등 다양한 내용을 다루며, Docker를 이용한 실행 환경 구성도 다룹니다.
+- SB001. Spring Batch 환경 구성과 기본 샘플 (jpa, txt, csv, fixed, json)
+- SB002. Spring Batch file to db (단일 파일, 멀티 파일)
+- SB003. Spring Batch 멀티 파일과 parameter  사용
+- SB004. Spring Batch Docker로 실행 환경 구성 (Gradle)
+- SB005. Spring Batch Docker로 실행 환경 구성 (Maven) 
+- SB006. Spring Batch 멀티 DB 2 DB 
+- SB007. Chunk Size 와 Parallel Spring Batch
+
 ## [D100. Docker 기초](https://www.youtube.com/playlist?list=PLogzC_RPf25Fx3eNZzxLVw3dOL7r4XIUk)
 #### Docker의 기본적인 사용법에 대한 강좌를 제공합니다. CentOS7, docker 설치 및 사용자 만들기, 이미지 관련 명령어, Network 구성, 레지스트리, docker-compose, Gitlab, JDK, Nginx vs Httpd 등의 주제를 다룹니다. 
 - D101. VMWare CentOS7 환경 구성

@@ -36,6 +36,16 @@
 - J217. Spring Log4j2 DB Appender
 - J218. Adding UUID to Spring Boot logs using log4j2 (feat. code improvement and reflection)
 
+## [SB000 Spring Batch](https://www.youtube.com/playlist?list=PLogzC_RPf25HRSG9aO7qKrwbT-EecUMMR)
+#### This course covers various topics related to Spring Batch, including environment setup and sample code creation, data movement between files and databases, Docker-based environment configuration, and more.
+- SB001. Spring Batch environment setup and basic samples (jpa, txt, csv, fixed, json)
+- SB002. Spring Batch file to database (single file, multi-file)
+- SB003. Spring Batch multi-file and parameter usage
+- SB004. Spring Batch environment setup with Docker (Gradle)
+- SB005. Spring Batch environment setup with Docker (Maven)
+- SB006. Spring Batch multi-db to db
+- SB007. Chunk Size and Parallel Spring Batch
+
 ## [D100. Docker Basic](https://www.youtube.com/playlist?list=PLogzC_RPf25Fx3eNZzxLVw3dOL7r4XIUk)
 #### Docker Basics provides tutorials on the fundamental usage of Docker, including setting up CentOS7, creating users, managing images, configuring networks, setting up registries, using docker-compose, integrating with Gitlab, comparing JDK, Nginx vs Httpd, and more.
 - D101. Setting up VMWare CentOS7 Environment
