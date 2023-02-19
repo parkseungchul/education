@@ -27,9 +27,17 @@
 - J208. RabbitMQ + Spring Boot
 - J209. Spring webflux + Thymeleaf
 - J210. Spring webflux + MongoDB (.feat 이거 한방이면 웹 플럭스 컷!!!)
+- J211.  인프라 전개를 위한 안내서 docker, NGINX, springboot, MySQL
+- J212. Springboot 멀티 포트와 포트 포워딩 (http에서 htts로)
+- J213. Spring Boot Template (개발을 위한 최소 스펙)
+- J214. OS Command, File Control (spring boot)
+- J215.  스프링 로그에 UUID 넣기
+- J216. 스프링 로그 동적 변경 actuator 아님!
+- J217.  Spring Log4j2 DB Appender
+- J218.  Spring log4j2 UUID 넣기 (feat.코드 개선과 반성)
 
 ## [D100. Docker 기초](https://www.youtube.com/playlist?list=PLogzC_RPf25Fx3eNZzxLVw3dOL7r4XIUk)
-#### Docker의 기본적인 사용법을 익힐 수 있는 강좌입니다. CentOS7, docker 설치 및 사용자 만들기, 이미지 관련 명령어, Network 구성, 레지스트리, docker-compose, Gitlab, JDK, Nginx vs Httpd 등의 주제를 다룹니다.
+#### Docker의 기본적인 사용법에 대한 강좌를 제공합니다. CentOS7, docker 설치 및 사용자 만들기, 이미지 관련 명령어, Network 구성, 레지스트리, docker-compose, Gitlab, JDK, Nginx vs Httpd 등의 주제를 다룹니다. 
 - D101. VMWare CentOS7 환경 구성
 - D102. CentOS7 docker 설치와 사용자 만들기
 - D103. docker 이미지 관련 명령어 
@@ -46,9 +54,11 @@
 - D112. Docker를 이용하여 구글 시트와 같은 거 사용 (.feat 미안 구글 시트는 아냐..)
 - D113. Nginx vs Httpd 성능 테스트 (feat .사실 Docker 연습인 듯...)
 - D114. Springboot. Scouter, K6 컨테이너화하여 가지고 놀기 (.feat Dockerfile 알쥐?)
+- D115. HAProxy 설치와 테스트 (스프링 클라우드 가기 전에 체크!!.)
+- D116. HAProxy HA 구성 (keepalived)
 
 ## [JC000. 스프링 클라우드](https://www.youtube.com/playlist?list=PLogzC_RPf25E9qprqOIDTzwZ24PuEf-1v)
-#### Spring Cloud와 관련된 주제를 다루는 강좌입니다. Spring Boot 프레임워크 만들기, docker-compose Spring Boot 환경 구성, Spring Boot 이중화 구성, Gradle Multi Project, 마이크로 서비스, Eureka 등의 주제를 다룹니다.
+#### "SpringCloud"는 Spring Boot 프레임워크를 이용해 Cloud Architecture에 대해 학습하는 강좌로, docker-compose로 Spring Boot 환경을 설정하고, Redundancy, Gradle Multi Project, Microservices, Eureka, Gateway 등의 주제를 다룹니다.
 - JC001. Spring Boot 프레임워크 만들기 (.feat 이거 한방이면 끝)
 - JC002. docker compose Spring Boot 환경 구성 (.feat 한방에 운영 환경 구성 해볼텐가?)
 - JC003-1. Spring Boot 이중화 구성 (.feat 어렵지 않아요.)
@@ -62,3 +72,4 @@
 - JC007-1 Micro Service with Gateway part.1 (.feat 마이크로 서비스 게이트웨이)
 - JC007-2 Micro Service with Gateway part.2
 - JC008. Cloud Architecture (ft. 십분만...)
+- JC009. Transition to Cloud Architecture
