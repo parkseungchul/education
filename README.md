@@ -2,61 +2,77 @@
 
 ### Youtube 목록 정리
 
-## [J100. Spring Boot 기초](https://www.youtube.com/playlist?list=PLogzC_RPf25E-mfrKvl6jWHU8r1jxCZgq)
-- J101. Spring Boot 개발 환경 만들기
-- J102. Spring Boot 빌드하고 WEB 띄우기
-- J103. Docker로 MYSQL, ORACLE 테스트 DB 구성
-- J104-1. Spring Boot JPA 1번째 수업 기본 CRUD
-- J105-2. Spring Boot JPA 2번째 수업 DEPT-EMP
-- J104-3. Spring Boot JPA 3번째 수업 검색과 페이징 처리
-- J105. Spring Boot UI Thymeleaf Layout
-- J106-1. Spring Boot Security 1번째 강의 DB CRUD
-- J106-2. Spring Boot Security 2번째 수업 REDIS를 이용하여 Security 세션 유지
-- J106-3. Spring Boot Security 3 번째 강의 Security + JWT
-- J107. Spring Boot SSL 인증서 무료로 적용하기
-- J108. Spring JPA Multiple Databases 
+## [J100. SpringBoot Basic](https://www.youtube.com/playlist?list=PLogzC_RPf25E-mfrKvl6jWHU8r1jxCZgq)
+<code>
+This course covers the basic usage of Spring Boot, including setting up the development environment, building, connecting to a database, using JPA, Thymeleaf, Security, and other related topics.
+</code>
 
-## [J200. Spring Boot 중급](https://www.youtube.com/playlist?list=PLogzC_RPf25FXvkWEK4IafUylvWCkPI8i)
-- J201. How to Use YUM Files to Smart
-- J202. How to use logback in spring boot
+- J101. Setting up Spring Boot Development Environment
+- J102. Building and Running Spring Boot Application
+- J103. Configuring MYSQL and ORACLE Test DB with Docker
+- J104-1. Basic CRUD with Spring Boot JPA
+- J105-2. DEPT-EMP with Spring Boot JPA
+- J104-3. Searching and Paging with Spring Boot JPA
+- J105. Spring Boot UI Thymeleaf Layout
+- J106-1. Security CRUD with Spring Boot Security
+- J106-2. Maintaining Security Session with REDIS
+- J106-3. Security + JWT with Spring Boot Security
+- J107. Free SSL Certification with Spring Boot
+- J108. Spring JPA Multiple Databases
+
+## [J200. SpringBoot intermediate](https://www.youtube.com/playlist?list=PLogzC_RPf25FXvkWEK4IafUylvWCkPI8i)
+<code>
+This is an advanced course on Spring Boot that covers topics such as YUM file usage, logback, JUnit, OAuth2, Gateway, WebFlux, MongoDB, and more.
+</code>
+
+- J201. Using YUM Files to Smart
+- J202. Using logback in Spring Boot
 - J203. Spring Boot JUnit
-- J204. Spring Boot + Security + JWT + keycloak (.feat 콜록 콜록)
+- J204. Spring Boot + Security + JWT + keycloak 
 - J205. OAuth2 + Gateway + JWT + keycloak + Security
-- J205-2. OAuth2 + Gateway + JWT + keycloak + Security (.feat webflux )
-- J207. Spring WebFlux vs Spring MVC and K6 load testing(.feat Thymeleaf 적용 했다구...)
+- J205-2. OAuth2 + Gateway + JWT + keycloak + Security 
+- J207. Spring WebFlux vs Spring MVC and K6 load testing
 - J208. RabbitMQ + Spring Boot
 - J209. Spring webflux + Thymeleaf
-- J210. Spring webflux + MongoDB (.feat 이거 한방이면 웹 플럭스 컷!!!)
+- J210. Spring webflux + MongoDB 
 
-## [D100. Docker 기초](https://www.youtube.com/playlist?list=PLogzC_RPf25Fx3eNZzxLVw3dOL7r4XIUk)
-- D101. VMWare CentOS7 환경 구성
-- D102. CentOS7 docker 설치와 사용자 만들기
-- D103. docker 이미지 관련 명령어 
-- D104. docker Spring Boot 빌드 환경, Nginx 볼륨 연결하기
-- D105. docker Network 구성
-- D106. docker 레지스트리 만들기
-- D107. 내가 만든 어플리케이션 docker image 만들고 구동해 보기
-- D108-1 docker compose, swarm quick guide 1번째 시간
-- D108-2 docker compose 2번째 시간 
-- D108-3 docker compose 3 번째 시간 nginx, springboot 간단하게 연동
+## [D100. Docker Basic](https://www.youtube.com/playlist?list=PLogzC_RPf25Fx3eNZzxLVw3dOL7r4XIUk)
+<code>
+This is a course that covers the basics of using Docker. Topics include installing CentOS7 and Docker, creating users, working with images, configuring networks, working with registries, using docker-compose, integrating with Gitlab, working with JDK, and comparing Nginx and Httpd.
+</code>
+
+- D101. Setting up VMWare CentOS7 Environment
+- D102. Installing Docker in CentOS7 and Creating a User
+- D103. Docker Image Related Commands
+- D104. Building Docker Spring Boot Environment and Connecting Nginx Volume
+- D105. Configuring Docker Network
+- D106. Creating Docker Registry
+- D107. Creating and Running Docker Image for Application
+- D108-1 docker compose, swarm quick guide 1st hour
+- D108-2 docker compose 2nd hour
+- D108-3 docker compose 3rd hour, simple connection between nginx and springboot
 - D109. Build Dockerfile for Spring Boot
-- D110. Gitlab을 Docker에 설치하기
-- D111. Docker Container 에 어울리는 JDK는?
-- D112. Docker를 이용하여 구글 시트와 같은 거 사용 (.feat 미안 구글 시트는 아냐..)
-- D113. Nginx vs Httpd 성능 테스트 (feat .사실 Docker 연습인 듯...)
-- D114. Springboot. Scouter, K6 컨테이너화하여 가지고 놀기 (.feat Dockerfile 알쥐?)
+- D110. Installing Gitlab in Docker
+- D111. Which JDK to Use with Docker Containers?
+- D112. Using Docker to Work with Google Sheets (.feat Sorry, it's not Google Sheets...)
+- D113. Nginx vs Httpd Performance Test (feat Actually Docker Practice...)
+- D114. Containerizing Spring Boot, Scouter, and K6 (.feat Dockerfile Alg?)
 
-## [JC000. 스프링 클라우드](https://www.youtube.com/playlist?list=PLogzC_RPf25E9qprqOIDTzwZ24PuEf-1v)
-- JC001. Spring Boot 프레임워크 만들기 (.feat 이거 한방이면 끝)
-- JC002. docker compose Spring Boot 환경 구성 (.feat 한방에 운영 환경 구성 해볼텐가?)
-- JC003-1. Spring Boot 이중화 구성 (.feat 어렵지 않아요.)
-- JC003-2 Spring Boot 이중화 구성2 (.feat 좀 더 스마트하게 변경..)
-- JC004. Gradle Multi Project 만들기
-- JC005-1 마이크로 서비스 Part.1 개발 환경 구성
-- JC005-2 마이크로 서비스 Part.2 소스 만들기
-- JC005-3 마이크로 서비스 Part.3 배포 환경
-- JC006-1 Micro Service with Eureka part.1(.feat 마이크로 서비스와 유레카 맛보기???)
-- JC006-2 Micro Service with Eureka part.2(.feat 마이크로 서비스와 유레카 실전)
-- JC007-1 Micro Service with Gateway part.1 (.feat 마이크로 서비스 게이트웨이)
-- JC007-2 Micro Service with Gateway part.2
-- JC008. Cloud Architecture (ft. 십분만...)
+## [JC000. SpringCloud](https://www.youtube.com/playlist?list=PLogzC_RPf25E9qprqOIDTzwZ24PuEf-1v)
+<code>
+This course covers topics related to Spring Cloud. It includes creating a Spring Boot framework, configuring a Spring Boot environment with docker-compose, setting up Spring Boot high availability, creating a Gradle Multi Project, building microservices, working with Eureka, and more.
+</code>
+
+- JC001: Creating a Spring Boot framework 
+- JC002: Configuring a Spring Boot environment with docker-compose 
+- JC003-1: Configuring Spring Boot for redundancy 
+- JC003-2: Configuring Spring Boot for redundancy 2 
+- JC004: Creating a Gradle multi-project
+- JC005-1: Setting up development environment for microservices Part 1
+- JC005-2: Creating microservices source code Part 2
+- JC005-3: Deploying microservices Part 3
+- JC006-1: Microservices with Eureka Part 1 
+- JC006-2: Microservices with Eureka Part 2 
+- JC007-1: Microservices with Gateway Part 1
+- JC007-2: Microservices with Gateway Part 2
+- JC008: Cloud Architecture
