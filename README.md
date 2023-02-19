@@ -1,6 +1,4 @@
-# IT 정답은 없다.
-
-### Youtube 목록 정리
+# [Spring YouTube](https://www.youtube.com/channel/UCwySse_dh9rIxh2aJTgmvLw)
 
 ## [J100. SpringBoot Basic](https://www.youtube.com/playlist?list=PLogzC_RPf25E-mfrKvl6jWHU8r1jxCZgq)
 #### This course covers the basic usage of Spring Boot, including setting up the development environment, building, connecting to a database, using JPA, Thymeleaf, Security, and other related topics.
