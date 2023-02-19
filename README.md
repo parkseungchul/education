@@ -3,10 +3,7 @@
 ### Youtube 목록 정리
 
 ## [J100. SpringBoot Basic](https://www.youtube.com/playlist?list=PLogzC_RPf25E-mfrKvl6jWHU8r1jxCZgq)
-<code>
-This course covers the basic usage of Spring Boot, including setting up the development environment, building, connecting to a database, using JPA, Thymeleaf, Security, and other related topics.
-</code>
-
+#### This course covers the basic usage of Spring Boot, including setting up the development environment, building, connecting to a database, using JPA, Thymeleaf, Security, and other related topics.
 - J101. Setting up Spring Boot Development Environment
 - J102. Building and Running Spring Boot Application
 - J103. Configuring MYSQL and ORACLE Test DB with Docker
@@ -21,10 +18,7 @@ This course covers the basic usage of Spring Boot, including setting up the deve
 - J108. Spring JPA Multiple Databases
 
 ## [J200. SpringBoot intermediate](https://www.youtube.com/playlist?list=PLogzC_RPf25FXvkWEK4IafUylvWCkPI8i)
-<code>
-This is an advanced course on Spring Boot that covers topics such as YUM file usage, logback, JUnit, OAuth2, Gateway, WebFlux, MongoDB, and more.
-</code>
-
+#### This is an advanced course on Spring Boot that covers topics such as YUM file usage, logback, JUnit, OAuth2, Gateway, WebFlux, MongoDB, and more.
 - J201. Using YUM Files to Smart
 - J202. Using logback in Spring Boot
 - J203. Spring Boot JUnit
@@ -37,10 +31,7 @@ This is an advanced course on Spring Boot that covers topics such as YUM file us
 - J210. Spring webflux + MongoDB 
 
 ## [D100. Docker Basic](https://www.youtube.com/playlist?list=PLogzC_RPf25Fx3eNZzxLVw3dOL7r4XIUk)
-<code>
-This is a course that covers the basics of using Docker. Topics include installing CentOS7 and Docker, creating users, working with images, configuring networks, working with registries, using docker-compose, integrating with Gitlab, working with JDK, and comparing Nginx and Httpd.
-</code>
-
+#### This is a course that covers the basics of using Docker. Topics include installing CentOS7 and Docker, creating users, working with images, configuring networks, working with registries, using docker-compose, integrating with Gitlab, working with JDK, and comparing Nginx and Httpd.
 - D101. Setting up VMWare CentOS7 Environment
 - D102. Installing Docker in CentOS7 and Creating a User
 - D103. Docker Image Related Commands
@@ -59,10 +50,7 @@ This is a course that covers the basics of using Docker. Topics include installi
 - D114. Containerizing Spring Boot, Scouter, and K6 (.feat Dockerfile Alg?)
 
 ## [JC000. SpringCloud](https://www.youtube.com/playlist?list=PLogzC_RPf25E9qprqOIDTzwZ24PuEf-1v)
-<code>
-This course covers topics related to Spring Cloud. It includes creating a Spring Boot framework, configuring a Spring Boot environment with docker-compose, setting up Spring Boot high availability, creating a Gradle Multi Project, building microservices, working with Eureka, and more.
-</code>
-
+#### This course covers topics related to Spring Cloud. It includes creating a Spring Boot framework, configuring a Spring Boot environment with docker-compose, setting up Spring Boot high availability, creating a Gradle Multi Project, building microservices, working with Eureka, and more.
 - JC001: Creating a Spring Boot framework 
 - JC002: Configuring a Spring Boot environment with docker-compose 
 - JC003-1: Configuring Spring Boot for redundancy 
